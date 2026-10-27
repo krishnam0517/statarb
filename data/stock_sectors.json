@@ -1,0 +1,202 @@
+{
+    "AAPL": {
+        "sector": "Technology",
+        "industry": "Consumer Electronics"
+    },
+    "MSFT": {
+        "sector": "Technology",
+        "industry": "Software - Infrastructure"
+    },
+    "GOOGL": {
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information"
+    },
+    "AMZN": {
+        "sector": "Consumer Cyclical",
+        "industry": "Internet Retail"
+    },
+    "NVDA": {
+        "sector": "Technology",
+        "industry": "Semiconductors"
+    },
+    "META": {
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information"
+    },
+    "BRK-B": {
+        "sector": "Financial Services",
+        "industry": "Insurance - Diversified"
+    },
+    "JPM": {
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified"
+    },
+    "V": {
+        "sector": "Financial Services",
+        "industry": "Credit Services"
+    },
+    "JNJ": {
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General"
+    },
+    "UNH": {
+        "sector": "Healthcare",
+        "industry": "Healthcare Plans"
+    },
+    "XOM": {
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated"
+    },
+    "PG": {
+        "sector": "Consumer Defensive",
+        "industry": "Household & Personal Products"
+    },
+    "MA": {
+        "sector": "Financial Services",
+        "industry": "Credit Services"
+    },
+    "HD": {
+        "sector": "Consumer Cyclical",
+        "industry": "Home Improvement Retail"
+    },
+    "CVX": {
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated"
+    },
+    "MRK": {
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General"
+    },
+    "ABBV": {
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General"
+    },
+    "PEP": {
+        "sector": "Consumer Defensive",
+        "industry": "Beverages - Non-Alcoholic"
+    },
+    "KO": {
+        "sector": "Consumer Defensive",
+        "industry": "Beverages - Non-Alcoholic"
+    },
+    "BAC": {
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified"
+    },
+    "COST": {
+        "sector": "Consumer Defensive",
+        "industry": "Discount Stores"
+    },
+    "TMO": {
+        "sector": "Healthcare",
+        "industry": "Diagnostics & Research"
+    },
+    "WMT": {
+        "sector": "Consumer Defensive",
+        "industry": "Discount Stores"
+    },
+    "MCD": {
+        "sector": "Consumer Cyclical",
+        "industry": "Restaurants"
+    },
+    "CSCO": {
+        "sector": "Technology",
+        "industry": "Communication Equipment"
+    },
+    "ACN": {
+        "sector": "Technology",
+        "industry": "Information Technology Services"
+    },
+    "ABT": {
+        "sector": "Healthcare",
+        "industry": "Medical Devices"
+    },
+    "LIN": {
+        "sector": "Basic Materials",
+        "industry": "Specialty Chemicals"
+    },
+    "DHR": {
+        "sector": "Healthcare",
+        "industry": "Diagnostics & Research"
+    },
+    "PFE": {
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General"
+    },
+    "ADBE": {
+        "sector": "Technology",
+        "industry": "Software - Application"
+    },
+    "NFLX": {
+        "sector": "Communication Services",
+        "industry": "Entertainment"
+    },
+    "AMD": {
+        "sector": "Technology",
+        "industry": "Semiconductors"
+    },
+    "NKE": {
+        "sector": "Consumer Cyclical",
+        "industry": "Footwear & Accessories"
+    },
+    "TXN": {
+        "sector": "Technology",
+        "industry": "Semiconductors"
+    },
+    "PM": {
+        "sector": "Consumer Defensive",
+        "industry": "Tobacco"
+    },
+    "ORCL": {
+        "sector": "Technology",
+        "industry": "Software - Infrastructure"
+    },
+    "DIS": {
+        "sector": "Communication Services",
+        "industry": "Entertainment"
+    },
+    "INTC": {
+        "sector": "Technology",
+        "industry": "Semiconductors"
+    },
+    "QCOM": {
+        "sector": "Technology",
+        "industry": "Semiconductors"
+    },
+    "IBM": {
+        "sector": "Technology",
+        "industry": "Information Technology Services"
+    },
+    "CAT": {
+        "sector": "Industrials",
+        "industry": "Farm & Heavy Construction Machinery"
+    },
+    "GE": {
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense"
+    },
+    "SPGI": {
+        "sector": "Financial Services",
+        "industry": "Financial Data & Stock Exchanges"
+    },
+    "AXP": {
+        "sector": "Financial Services",
+        "industry": "Credit Services"
+    },
+    "AMGN": {
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General"
+    },
+    "UPS": {
+        "sector": "Industrials",
+        "industry": "Integrated Freight & Logistics"
+    },
+    "HON": {
+        "sector": "Industrials",
+        "industry": "Conglomerates"
+    },
+    "BA": {
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense"
+    }
+}
