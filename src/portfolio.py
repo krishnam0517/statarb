@@ -45,6 +45,7 @@ class Portfolio:
         self.all_holdings.append({
             'datetime': self.datetime,
             'cash': self.cash,
+            'market_value': market_value_holdings,
             'equity': self.total_equity
         })
 
@@ -55,8 +56,7 @@ class Portfolio:
             
             try:
                 price = self.data_handler.get_latest_bar(ticker)
-                # Deploy 100% of cash for buy-and-hold validation
-                allocation_capital = self.cash * 0.995 # leave small buffer for commission
+                allocation_capital = self.cash * 0.995
                 quantity = int(allocation_capital / price)
                 
                 if quantity > 0 and direction == 'LONG' and self.current_positions[ticker] == 0:
